@@ -7,7 +7,7 @@
 	<groupId>com.howtodoinjava.demo</groupId>
 	<artifactId>springbootdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>SpringBootDemo</name>
 	<description>Spring Boot2 REST API Demo for http://howtodoinjava.com</description>
